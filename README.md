@@ -2,7 +2,7 @@
 
 <h4 align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=006EF7&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+me+chamo+Caique!;Seja+bem-vindo(a)+%3AD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=006EF7&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+me+chamo+Caique!;Seja+bem-vindo(a)+%3AD;Nice+to+meet+you!;Hello+World!)](https://git.io/typing-svg)
 
 <hr>
 </h4>
