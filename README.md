@@ -67,7 +67,7 @@ taking programming courses and researching technology-related subjects in parall
         <g-emoji class="g-emoji" alias="calling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f2.png">📲</g-emoji> Não hesite em me enviar uma mensagem: <g-emoji class="g-emoji" alias="arrow_heading_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2935.png">⤵️
         </g-emoji>
     </p>
-    <!-- Linkedin --><a href="https://www.linkedin.com/in/caiquerr/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg"></a> 
+    <!-- Linkedin --><a href="https://www.linkedin.com/in/caiquerr/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="40" height="40"/></a> 
     <!-- Email --><a href = "mailto:caiquerr99@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
