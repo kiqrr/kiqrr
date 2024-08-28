@@ -54,12 +54,7 @@ taking programming courses and researching technology-related subjects in parall
   </g-emoji> Tenho conhecimento:
   <p align="center">  
 <br>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svgtitle=" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-
-
-<!-- Figma --> <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" data-canonical-src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="max-width: 100%;"></a>
-
   </p>
 </p>
 
