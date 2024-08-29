@@ -69,7 +69,7 @@ taking programming courses and researching technology-related subjects in parall
         </g-emoji>
     </p>
     <!-- Linkedin --><a href="https://www.linkedin.com/in/caiquerr/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="70"/></a> 
-    <!-- Email --><a href = "mailto:caiquerr99@gmail.com"><img src="https://img.icons8.com/?size=256&id=P7UIlhbpWzZm&format=png" width="70"/></a>
+    <!-- Email --><a href = "mailto:caiquerr99@gmail.com"><img src="https://img.icons8.com/?size=256&id=P7UIlhbpWzZm&format=png" width="50"/></a>
 </div>
 
 ##
