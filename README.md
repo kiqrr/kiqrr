@@ -16,7 +16,7 @@
 </h3>
 
 ```
-Brazillian Portuguese (PT-BR)
+Brazilian Portuguese (PT-BR)
 Meu nome é Caique Rodrigues, tenho 25 anos. 🇧🇷
 
 Atualmente estou cursando Desenvolvimento de Sistemas no Senai.
