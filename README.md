@@ -2,7 +2,7 @@
 
 <h4 align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hepta+Slab&weight=700&size=24&letterSpacing=0.2rem&duration=6000&pause=2000&color=0DA400C3&background=000100&center=true&vCenter=true&width=1920&height=1080&lines=Wake+up%2C+Neo...;The+Matrix+has+you...;Follow+the+white+rabbit.;Knock%2C+knock%2C+Neo.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+15&weight=700&size=30&letterSpacing=0.2rem&duration=8000&pause=1000&color=0DA400C3&background=000100&center=true&vCenter=true&width=1366&height=768&lines=Wake+up%2C+Neo...;The+Matrix+has+you...;Follow+the+white+rabbit.;Knock%2C+knock%2C+Neo.)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=006EF7&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+me+chamo+Caique!;Seja+bem-vindo(a)+%3AD;Nice+to+meet+you!;Hello+World!)](https://git.io/typing-svg)
 
