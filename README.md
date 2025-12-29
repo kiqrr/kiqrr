@@ -17,22 +17,14 @@
 
 ```
 Brazilian Portuguese (PT-BR)
-Meu nome é Caique Rodrigues, tenho 25 anos. 🇧🇷
+Meu nome é Caique, tenho 26 anos e sou apaixonado por tecnologia desde criança. Sou técnico em Desenvolvimento de Sistemas formado pelo SENAI e atuo atualmente como desenvolvedor backend na InBot, onde trabalho com integrações de chatbots, automações e APIs para soluções de atendimento digital.
 
-Atualmente estou cursando Desenvolvimento de Sistemas no Senai.
-
-Sou apaixonado por tecnologia desde criança e atualmente tenho me dedicado a me tornar um programador cada vez mais 
-experiente e capacitado para atender as demandas do mercado com maestria, para isso estou sempre me atualizando 
-fazendo cursos de  programação e pesquisando assuntos relacionadas a tecnologia em paralelo.
+Tenho experiência em projetos de e-commerce, integração de gateways de pagamento e desenvolvimento de APIs. Busco sempre me aprimorar por meio de cursos, pesquisas e prática constante com tecnologias emergentes, para atender as demandas do mercado com excelência.
 
 English (EN)
-My name is Caique Rodrigues, I'm 25 years old.
+My name is Caique, I'm 26 years old, and I've been passionate about technology since childhood. I hold a technical degree in Systems Development from SENAI and currently work as a backend developer at InBot, where I focus on chatbot integrations, automations, and APIs for digital customer service solutions.
 
-I'm currently studying Systems Development at Senai São Paulo.
-
-I have been passionate about technology since I was a child and currently I have dedicated myself to becoming an increasingly programmer 
-experienced and qualified to meet market demands with mastery, so I am always updating myself 
-taking programming courses and researching technology-related subjects in parallel.
+I have experience with e-commerce platforms, payment gateway integrations, and API development. I'm always seeking to improve my skills through courses, research, and hands-on practice with emerging technologies to meet market demands with excellence.
 ```
 
 ##
